@@ -7,3 +7,4 @@ transformers
 streamlit
 regex
 nltk
+altair
